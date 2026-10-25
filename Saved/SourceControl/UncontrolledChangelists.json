@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Haritz/Downloads/Practica2_Dispositivosyformatos/Practica 2 Haritz Trebol/Content/Modelos/Pinball/BolaPhysicalMaterial.uasset",
+				"C:/Users/Haritz/Downloads/Practica2_Dispositivosyformatos/Practica 2 Haritz Trebol/Content/Modelos/Pinball/Bola.uasset",
+				"C:/Users/Haritz/Downloads/Practica2_Dispositivosyformatos/Practica 2 Haritz Trebol/Content/GameArcade/Scenes/Arcade.umap"
+			]
+		}
+	]
+}
